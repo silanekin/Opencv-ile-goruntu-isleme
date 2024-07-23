@@ -1,2 +1,2 @@
-# Opencv-ile-g-r-nt-isleme
+# Opencv-ile-goruntu-isleme
 Python
